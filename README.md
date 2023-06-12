@@ -15,7 +15,7 @@ Please refer to the Blessed documentation for more information.
 
 ## Usage
 
-First, install the packages:
+First, install the package:
 
 ```python
 pip install blessable # or python -m pip install blessable
