@@ -15,7 +15,13 @@ Please refer to the Blessed documentation for more information.
 
 ## Usage
 
-First, import the `blessable` module:
+First, install the packages:
+
+```
+pip install blessable # or python -m pip install blessable
+```
+
+Then, import the `blessable` module:
 
 ```python
 from blessable import Blessable
