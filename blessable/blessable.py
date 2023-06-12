@@ -1,6 +1,6 @@
 from .colormap import color_map
 
-class Blesser:
+class Blessable:
     # def __init__(self):
         # self.term = Terminal()
 

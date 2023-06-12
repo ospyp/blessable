@@ -1,10 +1,10 @@
-# Blesser
+# Blessable
 
-Blesser is a simple library powered by the Blessed library. Blesser adds a simple markup language that has a similar syntax to HTML.
+Blessable is a simple library powered by the Blessed library. Blessable adds a simple markup language that has a similar syntax to HTML.
 
 ## Support
 
-Through Blessed, Blesser supports almost all platforms:
+Through Blessed, Blessable supports almost all platforms:
 
  - Windows `NEW`
  - macOS
@@ -15,24 +15,24 @@ Please refer to the Blessed documentation for more information.
 
 ## Usage
 
-First, import the `blesser` module:
+First, import the `blessable` module:
 
 ```python
-from blesser import Blesser
+from blessable import Blessable
 ```
 
-Then, use `blesser` like this:
+Then, use `blessable` like this:
 
 ```python
-blesser = Blesser()
-print(blesser.bless('<green>Success</green> - <blue_on_white>Blesser has been installed!</blue_on_white>'))
+blessable = Blessable()
+print(blessable.bless('<green>Success</green> - <blue_on_white>Blessable has been installed!</blue_on_white>'))
 ```
 
 Try it out!
 
-### Blesser Markup Language
+### Blessable Markup Language
 
-Blesser Markup Language is a simple markup language similar to HTML.
+Blessable Markup Language is a simple markup language similar to HTML.
 
 ```html
 Text <color>text</color> text

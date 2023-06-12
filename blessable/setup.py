@@ -1,10 +1,10 @@
 from setuptools import setup
 
 setup(
-    name='Blesser',
+    name='Blessable',
     version='1.0.0',
     author='www.mrfake.name',
-    description='"Blesser" - a simple markup language for Blessings.',
+    description='"Blessable" - a simple markup language for Blessings.',
     packages=['csc'],
     install_requires=['blessed'],
 )
