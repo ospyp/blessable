@@ -6,18 +6,15 @@ class Blesser:
 
     def bless(self, markup):
         parts = markup.split('<')
-        converted_markup = []
-
+        converted_markup = ''
         for part in parts:
             if '>' in part:
                 color_tag, text = part.split('>', 1)
                 color_tag = color_tag.strip()
-
                 if color_tag in color_map:
-                    converted_markup.append(color_map[color_tag](text))
+                    converted_markup += color_map[color_tag](text)
                 else:
-                    converted_markup.append(text)
+                    converted_markup += text
             else:
-                converted_markup.append(part)
-
-        return ''.join(converted_markup)
+                converted_markup += part
+        return converted_markup

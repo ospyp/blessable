@@ -73,4 +73,4 @@ In addition to these colors, we also supports the following non-colors:
 
 ## To Do
 
- - [ ]
+ - [ ] Support nested styling
