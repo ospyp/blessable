@@ -77,6 +77,13 @@ In addition to these colors, we also supports the following non-colors:
  - `italic` (alias `i`)
  - `underline` (alias `u`)
 
+Try this out:
+
+```html
+Hello, <bold>this text should be bold.</bold> Because of Blessable aliases, <b>this text should also be bold!</b>
+```
+
 ## To Do
 
  - [ ] Support nested styling
+ - [ ] Support escaping tags
