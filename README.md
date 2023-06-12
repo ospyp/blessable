@@ -48,19 +48,29 @@ The Blessed library is truly <red>amazing</red>, with <blue>Windows, Mac, and Li
 
 The following colors are supported, as well as `color_on_color`, e.g. `white_on_blue`:
 
- - black
- - red
- - green
- - yellow
- - blue
- - magenta
- - cyan
- - white
- - bright_black
- - bright_red
- - bright_green
- - bright_yellow
- - bright_blue
- - bright_magenta
- - bright_cyan
- - bright_white
+ - `black`
+ - `red`
+ - `green`
+ - `yellow`
+ - `blue`
+ - `magenta`
+ - `cyan`
+ - `white`
+ - `bright_black`
+ - `bright_red`
+ - `bright_green`
+ - `bright_yellow`
+ - `bright_blue`
+ - `bright_magenta`
+ - `bright_cyan`
+ - `bright_white`
+
+In addition to these colors, we also supports the following non-colors:
+
+ - `bold` (alias `b`)
+ - `italic` (alias `i`)
+ - `underline` (alias `u`)
+
+## To Do
+
+ - [ ]

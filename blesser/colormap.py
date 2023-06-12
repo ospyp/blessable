@@ -1,6 +1,12 @@
 from blessed import Terminal
 term = Terminal()
 color_map = {
+    "bold": term.bold,
+    "italic": term.italic,
+    "underline": term.underline,
+    "b": term.bold,
+    "i": term.italic,
+    "u": term.underline,
     "black": term.black,
     "black_on_black": term.black_on_black,
     "black_on_red": term.black_on_red,
