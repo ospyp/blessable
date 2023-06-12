@@ -5,6 +5,6 @@ setup(
     version='1.0.0',
     author='www.mrfake.name',
     description='"Blessable" - a simple markup language for Blessings.',
-    packages=['csc'],
+    packages=['blessable'],
     install_requires=['blessed'],
 )
