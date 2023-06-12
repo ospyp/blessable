@@ -17,7 +17,7 @@ Please refer to the Blessed documentation for more information.
 
 First, install the packages:
 
-```
+```python
 pip install blessable # or python -m pip install blessable
 ```
 
