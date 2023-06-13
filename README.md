@@ -15,19 +15,25 @@ Please refer to the Blessed documentation for more information.
 
 ## Usage
 
-First, install the package:
+**First, install the package:**
 
 ```python
 pip install blessable # or python -m pip install blessable
 ```
 
-Then, import the `blessable` module:
+Or, if you want the latest version of everything:
+
+```python
+pip install git+https://github.com/fakerybakery/blessable.git  # or python -m pip install git+https://github.com/fakerybakery/blessable.git
+```
+
+**Then, import the `blessable` module:**
 
 ```python
 from blessable import Blessable
 ```
 
-Then, use `blessable` like this:
+**Then, use `blessable` like this:**
 
 ```python
 blessable = Blessable()
@@ -39,6 +45,26 @@ Try it out!
 ### Blessable Markup Language
 
 Moved to our [Wiki](https://github.com/fakerybakery/blessable/wiki/Documentation#blessable-markup-language).
+
+## API
+
+There's only one function:
+
+### `bless`
+
+#### Usage
+
+```
+.bless(markup=String) -> String
+```
+
+#### Parameters
+
+`markup`: `String` - the Blessable Markup Language markup
+
+#### Returns
+
+`String` - try printing this in your Terminal!
 
 ## Supported Colors
 
