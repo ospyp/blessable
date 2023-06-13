@@ -75,6 +75,12 @@ There's only one function:
  - [ ] Support nested styling
  - [ ] Support escaping tags
 
+## Credits
+
+Credits go to @jquast's amazing [blessed](https://github.com/jquast/blessed) library, a fork of @erikrose's [blessings](https://github.com/erikrose/blessings) library. Thanks also to ChatGPT for help with this codebase!
+
 ## FAQs
 
 Please see the [Wiki](https://github.com/fakerybakery/blessable/wiki) for FAQs, comparisons, and more.
+
+## Disclaimer
