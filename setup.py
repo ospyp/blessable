@@ -3,7 +3,7 @@ with open('README.md', 'r') as f:
     longdesc = f.read()
 setup(
     name='blessable',
-    version='1.0.4',
+    version='1.1.0',
     author='www.mrfake.name',
     description='"Blessable" - a simple markup language for Blessings.',
     long_description=longdesc,
