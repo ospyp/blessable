@@ -1,3 +1,5 @@
+# Blessable by @fakerybakery: https://github.com/fakerybakery/blessable
+# Copyright (c) 2023. All rights reserved.
 from .colormap import color_map
 class Blessable:
     def bless(self, markup):
