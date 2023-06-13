@@ -52,36 +52,7 @@ The Blessed library is truly <red>amazing</red>, with <blue>Windows, Mac, and Li
 
 ## Supported Colors
 
-The following colors are supported, as well as `color_on_color`, e.g. `white_on_blue`:
-
- - `black`
- - `red`
- - `green`
- - `yellow`
- - `blue`
- - `magenta`
- - `cyan`
- - `white`
- - `bright_black`
- - `bright_red`
- - `bright_green`
- - `bright_yellow`
- - `bright_blue`
- - `bright_magenta`
- - `bright_cyan`
- - `bright_white`
-
-In addition to these colors, we also supports the following non-colors:
-
- - `bold` (alias `b`)
- - `italic` (alias `i`)
- - `underline` (alias `u`)
-
-Try this out:
-
-```html
-Hello, <bold>this text should be bold.</bold> Because of Blessable aliases, <b>this text should also be bold!</b>
-```
+[Supported colors have been moved to our Wiki](https://github.com/fakerybakery/blessable/wiki/Documentation#supported-colors).
 
 ## To Do
 
