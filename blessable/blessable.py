@@ -1,9 +1,5 @@
 from .colormap import color_map
-
 class Blessable:
-    # def __init__(self):
-        # self.term = Terminal()
-
     def bless(self, markup):
         parts = markup.split('<')
         converted_markup = ''
