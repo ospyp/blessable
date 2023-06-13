@@ -81,6 +81,14 @@ There's only one function:
 
 Credits go to @jquast's amazing [blessed](https://github.com/jquast/blessed) library, a fork of @erikrose's [blessings](https://github.com/erikrose/blessings) library. Thanks also to ChatGPT for help with this codebase!
 
+## Blessable vs. Rich
+
+For a complete analysis, please see [our FAQ](https://github.com/fakerybakery/blessable/wiki/FAQs#blessable-vs-rich), but here's a summary:
+
+Rich is good if you want lots of features, but Blessable is good if you just want colors.
+
+Parsing the same string one million times, Blessable is on average over 59 times faster than Rich.
+
 ## FAQs
 
 Please see the [Wiki](https://github.com/fakerybakery/blessable/wiki) for FAQs, comparisons, and more.
