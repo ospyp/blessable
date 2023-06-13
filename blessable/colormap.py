@@ -1,3 +1,5 @@
+# Blessable by @fakerybakery: https://github.com/fakerybakery/blessable
+# Copyright (c) 2023. All rights reserved.
 from blessed import Terminal
 term = Terminal()
 color_map = {
