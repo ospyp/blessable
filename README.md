@@ -87,3 +87,7 @@ Hello, <bold>this text should be bold.</bold> Because of Blessable aliases, <b>t
 
  - [ ] Support nested styling
  - [ ] Support escaping tags
+
+## FAQs
+
+Please see the [Wiki](https://github.com/fakerybakery/blessable/wiki) for FAQs, comparisons, and more.
