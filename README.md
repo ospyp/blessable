@@ -38,17 +38,7 @@ Try it out!
 
 ### Blessable Markup Language
 
-Blessable Markup Language is a simple markup language similar to HTML.
-
-```html
-Text <color>text</color> text
-```
-
-Demo:
-
-```html
-The Blessed library is truly <red>amazing</red>, with <blue>Windows, Mac, and Linux Support</blue> all built-in!
-```
+Moved to our [Wiki](https://github.com/fakerybakery/blessable/wiki/Documentation#blessable-markup-language).
 
 ## Supported Colors
 
