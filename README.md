@@ -6,7 +6,7 @@ Blessable is a simple library powered by the Blessed library. Blessable adds a s
 
 Through Blessed, Blessable supports almost all platforms:
 
- - Windows `NEW`
+ - Windows `NEW` (or not so new - came to the `blessed` library in 2019)
  - macOS
  - Linux
  - BSD
