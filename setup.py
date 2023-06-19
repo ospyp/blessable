@@ -5,7 +5,7 @@ setup(
     name='blessable',
     version='1.1.1',
     author='www.mrfake.name',
-    description='"Blessable" - a simple markup language for Blessings.',
+    description='"Blessable" - a simple markup language for Blessings. Basically a simplified version of Rich that\'s ~59x faster.',
     long_description=longdesc,
     long_description_content_type='text/markdown',
     url='https://github.com/fakerybakery/blessable',
