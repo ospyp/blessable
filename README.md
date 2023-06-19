@@ -93,6 +93,10 @@ Parsing the same string one million times, Blessable is on average over 59 times
 
 Please see the [Wiki](https://github.com/fakerybakery/blessable/wiki) for FAQs, comparisons, and more.
 
+## If you find this useful...
+
+Please star this repository! It makes a huge difference.
+
 ## Disclaimer
 
 I do not endorse Blessed, Blessings, or ChatGPT.
