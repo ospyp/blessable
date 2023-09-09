@@ -26,7 +26,7 @@ with open('README.md', 'r') as f:
     longdesc = f.read()
 setup(
     name='blessable',
-    version='1.1.1',
+    version='1.1.2',
     author='www.mrfake.name',
     description='"Blessable" - a simple markup language for Blessings. Basically a simplified version of Rich that\'s ~59x faster.',
     long_description=longdesc,
