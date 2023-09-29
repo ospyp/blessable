@@ -1,4 +1,4 @@
-# Blessable by @fakerybakery: https://github.com/fakerybakery/blessable
+# Blessable by @fakerybakery: https://github.com/ospyp/blessable
 # Copyright (c) 2023. All rights reserved.
 # BLESSABLE OPEN-SOURCE "COPYLEFT" LICENSE, VERSION 2.0
 # 
@@ -31,11 +31,11 @@ setup(
     description='"Blessable" - a simple markup language for Blessings. Basically a simplified version of Rich that\'s ~59x faster.',
     long_description=longdesc,
     long_description_content_type='text/markdown',
-    url='https://github.com/fakerybakery/blessable',
+    url='https://github.com/ospyp/blessable',
     packages=['blessable'],
     install_requires=['blessed'],
     project_urls={
-        "Bug Reports": "https://github.com/fakerybakery/blessable/issues",
-        "Source": "https://github.com/fakerybakery/blessable",
+        "Bug Reports": "https://github.com/ospyp/blessable/issues",
+        "Source": "https://github.com/ospyp/blessable",
     },
 )
