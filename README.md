@@ -131,3 +131,10 @@ THE SOFTWARE IS PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS O
 ## License
 
 This package is licensed under a [permissive copyleft license](LICENSE) (The Blessable Open-Source "Copyleft" License, Version 2.0). This license is similar to the GPL license, but allows you to use this library in software with other licenses. Please refer to the [full license](LICENSE) for details.
+
+
+---
+
+A initiative of [Open Source PYthon Packages](https://github.com/ospyp).
+
+<a href="https://github.com/ospyp"><img width="100" src="https://raw.githubusercontent.com/ospyp/ospyp/main/logo.svg"></a>
